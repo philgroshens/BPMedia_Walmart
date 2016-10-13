@@ -5,9 +5,9 @@ A sample integration for Magento 1.9 CE to the Walmart Seller API.
 
 ## Dependencies
 
-	- PHP >=5.4, either on the Magento server, or on a separate middleman web server (AWS Free Tier FTW!)
-	- [fillup/walmart-partner-api-sdk-php:develop](https://github.com/fillup/walmart-partner-api-sdk-php/tree/develop)
-	- guzzlehttp/guzzle-services:dev-master (included in fillup/walmart-partner-api-sdk-php:develop)
+- PHP >=5.4, either on the Magento server, or on a separate middleman web server (AWS Free Tier FTW!)
+- [fillup/walmart-partner-api-sdk-php:develop](https://github.com/fillup/walmart-partner-api-sdk-php/tree/develop)
+- guzzlehttp/guzzle-services:dev-master (included in fillup/walmart-partner-api-sdk-php:develop)
 	
 ## Installation
 
