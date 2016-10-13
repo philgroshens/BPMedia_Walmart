@@ -1,0 +1,6 @@
+Walmart/Model/*						app/code/local/BPMedia/WalmartSync/Model/
+Walmart/Helper/*						app/code/local/BPMedia/WalmartSync/Helper/
+Walmart/etc/*						app/code/local/BPMedia/WalmartSync/etc/
+Walmart/BPMedia_WalmartSync.xml 		app/etc/modules/BPMedia_WalmartSync.xml
+vendor/*							app/code/local/BPMedia/WalmartSync/Model/vendor/
+	   
